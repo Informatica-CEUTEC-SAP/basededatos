@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833991184752",
+    "project_id": "listato-66ad7",
+    "storage_bucket": "listato-66ad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833991184752:android:0bbb3c03883b47af77bfb5",
+        "android_client_info": {
+          "package_name": "com.example.simple_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30cF3W44q1vV3cxfvx3aZvgWM7JYYDKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
